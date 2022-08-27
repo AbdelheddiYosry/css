@@ -1,0 +1,29 @@
+nav{
+    background-color: blue;
+    height: 20px;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-around;
+}
+.nevBarItem{
+    list-style:none ;
+    color: goldenrod;
+    font-size: 90px;
+}
+.navBarItem:hover{
+    cursor: pointer;
+}
+#homePictures{
+    width:80% ;
+    margin-left: 30%;
+    margin-top: 90px;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
